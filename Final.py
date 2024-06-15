@@ -3,7 +3,6 @@ import simpleGE
 import random
 
 pygame.init()
-fps = 30
 
 pygame.mixer.init()
 pygame.mixer.music.load('menumusic.mp3')
